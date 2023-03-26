@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Мои технологии:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -33,7 +33,7 @@
 
 ---
 
-###
+### Мои статистики
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rendlolx&show_icons=true)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rendlolx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
