@@ -19,6 +19,15 @@
 
 ---
 
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
 ###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rendlolx&show_icons=true)  
 
