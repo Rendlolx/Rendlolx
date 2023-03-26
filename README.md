@@ -36,9 +36,8 @@
 ###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rendlolx&show_icons=true)  
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rendlolx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![codewars](https://www.codewars.com/users/Rendlolx/badges/large)](https://www.codewars.com/users/Rendlolx)
 ---
 - :mailbox: Связь мо мной: [![Telegram Badge](https://img.shields.io/badge/-rendlolx-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rendlolx) [![Gmail Badge](https://img.shields.io/badge/-Yandex.Mail-red?style=flat&logo=&logoColor=white)](mailto:span42@yandex.ru)
